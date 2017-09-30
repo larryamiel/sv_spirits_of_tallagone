@@ -1,6 +1,6 @@
-## StoneVeil : Spirits Of Tallagone
+# StoneVeil : Spirits Of Tallagone
   
-  # Legends :
+  ## Legends :
     __($function_name)__() is a custom general function
     __($function_name)() is a custom specific function
     
